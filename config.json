@@ -1,0 +1,5 @@
+{
+    "cluster"   : 10,
+    "model_name": "ARIMAX",
+    "optimizer": "optim2"
+}
